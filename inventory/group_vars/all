@@ -1,0 +1,4 @@
+app_name: insight
+instance_type: m3.medium
+key_name: insight
+region: us-east-1
